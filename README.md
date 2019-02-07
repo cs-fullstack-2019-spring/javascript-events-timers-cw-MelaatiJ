@@ -1,3 +1,7 @@
+### POINTS: 2
+### KEY: Some minor issues but mostly complete and good comments.
+### Was looking for you to use setInterval for the countdown exercise, but let you slide with a loop
+
 # JavaScript: Additional events, timers, add attributes
 
 ### Exercise 1:
